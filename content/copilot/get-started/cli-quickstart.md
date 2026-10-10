@@ -131,3 +131,4 @@ Find out more about {% data variables.copilot.copilot_cli_short %}:
 * [AUTOTITLE](/copilot/how-tos/copilot-cli/use-copilot-cli/overview)
 * [AUTOTITLE](/copilot/how-tos/copilot-cli/cli-best-practices)
 * [Get started with {% data variables.copilot.copilot_cli %}: A free hands-on course](https://developer.microsoft.com/blog/get-started-with-github-copilot-cli-a-free-hands-on-course)
+npm install -g @github/copilot
